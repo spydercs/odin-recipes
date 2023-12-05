@@ -1,0 +1,12 @@
+/* style.css */
+* {
+  font-family: "Courier New";
+}
+
+h1 {
+  background-color: blue;
+}
+
+ul li {
+  list-style: none;
+}
